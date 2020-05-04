@@ -1,0 +1,4 @@
+pelican[Markdown]
+webassets
+mdx_include
+cssmin
